@@ -146,8 +146,8 @@ I prefer separating responsibilities into independent components so that systems
 ## 📫 Connect With Me
 
 - GitHub: [@AhmetBalci1](https://github.com/AhmetBalci1)
-- LinkedIn: [Ahmet Balcı]([https://www.linkedin.com/](http://linkedin.com/in/ahmet-abdullah-balc%C4%B1-29070941a/))
-
+- LinkedIn: [Ahmet Balcı]([https://www.linkedin.com/in/ahmet-abdullah-balc%C4%B1-29070941a/])
+https://www.linkedin.com/in/ahmet-abdullah-balc%C4%B1-29070941a/
 ---
 
 ### ⚡ Building software. Exploring AI. Turning ideas into products.
