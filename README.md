@@ -58,11 +58,37 @@ I enjoy turning ideas into functional products and continuously improving my ski
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
-### 🔹 Cypher
+### Cypher — Local AI Desktop Assistant
+**Private repository**
 
-A local-first AI desktop assistant built with Python.
+A modular local-first AI desktop assistant built with Python.
+
+Cypher focuses on natural language processing, planning, reasoning, local LLM integration, speech interaction, and system-level tools.
+
+**Tech:** Python, PyQt, Ollama, Whisper, Pytest, Ruff
+
+---
+
+### Loyalty System — Customer Loyalty Platform
+**Private repository**
+
+A full-stack customer loyalty platform developed for real-world café operations.
+
+The system includes customer loyalty tracking, QR-based interactions, staff operations, reward management, campaign management, notifications, store management, geofencing, and an administrative dashboard.
+
+**Tech:** React Native, Expo, Node.js, PostgreSQL, Docker, Next.js
+
+---
+
+### Cypher — Local AI Desktop Assistant
+
+**Private repository**
+
+Local-first AI desktop assistant built with Python.
+
+**Tech:** `Python` · `PyQt` · `Ollama` · `Whisper` · `Pytest` · `Ruff`
 
 Cypher is designed around a modular architecture for:
 
@@ -77,28 +103,32 @@ Cypher is designed around a modular architecture for:
 
 The project focuses on building an extensible AI system rather than a monolithic application.
 
-→ [View Cypher](https://github.com/AhmetBalci1/cypher)
-
 ---
 
-### 🔹 Brekkie Loyalty System
 
-A digital customer loyalty system designed for café operations.
 
-The system includes:
+### Loyalty System — Customer Loyalty Platform
+**Private repository**
+
+A full-stack customer loyalty platform developed for real-world café operations.
+
+The platform includes:
 
 - QR-based customer identification
-- Digital coffee loyalty
+- Coffee purchase and loyalty tracking
 - Reward management
 - Staff operations
-- Customer management
-- Campaigns
+- Campaign management
 - Push notifications
 - Store management
-- Geolocation-based features
+- Geofencing
+- Customer-facing mobile application
 - Administrative dashboard
+- PostgreSQL-based backend infrastructure
 
-Built with modern mobile and backend technologies.
+**Tech Stack**
+
+React Native · Expo · Node.js · PostgreSQL · Docker · Next.js
 
 ---
 
